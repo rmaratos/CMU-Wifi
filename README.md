@@ -1,6 +1,6 @@
-CMU Wifi - Wifi Strength Visualizer
-15-112 Term Project
-Robert Maratos
+CMU Wifi
+==============
+Wifi Strength Visualizer for Fall 2013 15-112 Term Project.
 
 This project depends on wxpython which can be downloaded from:
 http://www.wxpython.org/download.php
